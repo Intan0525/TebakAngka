@@ -146,7 +146,7 @@ public class TebakAngkaWindow extends javax.swing.JFrame {
         jumlah++;
         }catch(Exception e){
             //petunjukLabel.setText("Masukan ANGKA, ngerti angka ga?");
-            JOptionPane.showMessageDialog(rootPane, "Masukan ANGKA, ngerti angka ga?");
+            JOptionPane.showMessageDialog(rootPane, "Masukan ANGKA, ngerti angka ga? hayoo fokuss");
         }
     }//GEN-LAST:event_cekAngkaButtonActionPerformed
 
